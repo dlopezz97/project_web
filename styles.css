@@ -10,7 +10,7 @@
 /*Cambia el color de la letra del titulo*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-family: "Oswald", Arial, Sans-Serif;
     color: white;
     font-size: 18px;
 }
